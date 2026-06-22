@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "FxCompare",
+    "slug": "fxcompare",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0f172a"
+      },
+      "package": "com.aniket.fxcompare"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fbd553e5-9273-4f84-a380-c06099d27646"
+      }
+    }
+  }
+}
